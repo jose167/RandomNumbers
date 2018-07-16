@@ -1,0 +1,11 @@
+C:\repository\LeicaChallenge\LeicaChallenge\bin\Debug\netcoreapp2.0\LeicaChallenge.deps.json
+C:\repository\LeicaChallenge\LeicaChallenge\bin\Debug\netcoreapp2.0\LeicaChallenge.runtimeconfig.json
+C:\repository\LeicaChallenge\LeicaChallenge\bin\Debug\netcoreapp2.0\LeicaChallenge.runtimeconfig.dev.json
+C:\repository\LeicaChallenge\LeicaChallenge\bin\Debug\netcoreapp2.0\LeicaChallenge.dll
+C:\repository\LeicaChallenge\LeicaChallenge\bin\Debug\netcoreapp2.0\LeicaChallenge.pdb
+C:\repository\LeicaChallenge\LeicaChallenge\obj\Debug\netcoreapp2.0\LeicaChallenge.csprojAssemblyReference.cache
+C:\repository\LeicaChallenge\LeicaChallenge\obj\Debug\netcoreapp2.0\LeicaChallenge.csproj.CoreCompileInputs.cache
+C:\repository\LeicaChallenge\LeicaChallenge\obj\Debug\netcoreapp2.0\LeicaChallenge.AssemblyInfoInputs.cache
+C:\repository\LeicaChallenge\LeicaChallenge\obj\Debug\netcoreapp2.0\LeicaChallenge.AssemblyInfo.cs
+C:\repository\LeicaChallenge\LeicaChallenge\obj\Debug\netcoreapp2.0\LeicaChallenge.dll
+C:\repository\LeicaChallenge\LeicaChallenge\obj\Debug\netcoreapp2.0\LeicaChallenge.pdb

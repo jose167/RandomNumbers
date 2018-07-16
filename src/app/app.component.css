@@ -1,0 +1,32 @@
+@import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css');
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 1px  grey solid; 
+}
+
+li{
+  display: block;
+  width: 40px;
+  float: left;
+  font-size: 15px;
+  
+}
+form {
+  padding: 20px;
+}
+.margin-top-20{
+  margin-top:20px; 
+}
+
+.margin-top-60 {
+  margin-top: 60px;
+}
+
+

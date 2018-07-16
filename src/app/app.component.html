@@ -1,0 +1,25 @@
+<div class="container center">
+
+  <h1 class="margin-top-60"> Random Number Generator </h1>
+  <form>
+    <div class="form-group row margin-top-20">
+      <label class="col-xs-12 col-sm-3" for="name">Enter Range:</label>
+      <input #min type="number" name="input" class="col-xs-12 col-sm-3" min="1" placeholder="MIN" required>
+      <input #max type="number" name="input" class="col-xs-12 col-sm-3 col-sm-offset-3" min="3" placeholder="MAX" required>
+    </div>
+    <div class="form-group row margin-top-20">
+      <button (click)="Start()" class="btn btn-success col-xs-offset-4 col-xs-2">Start</button>
+      <button (click)="Stop()" class="btn btn-danger col-xs-2 col-xs-offset-2">Stop</button>
+    </div>
+    <div *ngIf="lError">
+      <div class="alert alert-warning" role="alert">
+        {{ errorMessage }}
+      </div>
+    </div>
+    <ul *ngIf="apiValues.length > 0" class="row justify-content-center margin-top-60">
+      <li class="col-xs-12" *ngFor="let result of apiValues | slice:-10">{{ result }}</li>
+    </ul>
+  </form>
+  </div>
+
+
